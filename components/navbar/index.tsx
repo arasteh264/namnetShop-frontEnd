@@ -38,14 +38,14 @@ export default function Navbar() {
     <div className='rounded-[10px] bg-amber-600 px-1  items-center flex'>
 <BasketIcon  className='text-3xl' />
     </div>
-    <div className='flex flex-col gap-1'>
+    <div className='flex flex-col gap-1 text-white'>
         <span className='text-1xl font-extrabold'>نامنت شاپ</span>
         <span className='text-sm font-semibold'>بازار عمده فروشی آراسته</span>
     </div>
     </div>
 
     <nav>
-    <ul className='flex gap-20'>
+    <ul className='flex gap-20 text-white'>
         <li className='text-lg'>پنل کاربری</li>
         <li className='text-lg'>محصولات</li>
         <li className='text-lg'>خانه</li>

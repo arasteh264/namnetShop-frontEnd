@@ -18,7 +18,12 @@ const nextConfig : NextConfig = {
       'noosheen.ir',
       'chelci.co',
       'donyaieshirin.com',
-      'logoyab.com'
+      'logoyab.com',
+      "sunstarjuice.ir",
+      "behamadco.com",
+      "www.golshanjuice.ir",
+      "ranimania.com",
+      "dkstatics-public.digikala.com"
     ],
   },
 };

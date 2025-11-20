@@ -20,11 +20,11 @@ export default function ProductSlider({ items, CardComponent, rtl = true }: Prod
         modules={[Navigation, Pagination]}
         slidesPerView={1.2}
         spaceBetween={15}
-        // navigation
-        // pagination={{ clickable: true }}
+        navigation
+        pagination={{ clickable: true }}
         breakpoints={{
           640: { slidesPerView: 2, spaceBetween: 20 },
-          1024: { slidesPerView: 3, spaceBetween: 30 },
+          1024: { slidesPerView:3.5, spaceBetween:10 },
         }}
       >
         {items.map((item,index) => (
