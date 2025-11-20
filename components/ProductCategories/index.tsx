@@ -2,12 +2,12 @@
 import CategoriesCard from "./categoriesCard"
 
 const data = [
-  { title: "انواع کیک", id: 1, img: "🍪" },
-  { title: "نوشیدنی‌ها", id: 2, img: "☕" },
-  { title: "شیرینی‌جات", id: 3, img: "🍰" },
-  { title: "غذای اصلی", id: 4, img: "🍛" },
-  { title: "سالادها", id: 5, img: "🥗" },
-  { title: "سوپ‌ها", id: 6, img: "🍲" },
+  { title: "کیک", id: 1, img: "🍪" },
+  { title: "ویفر", id: 2, img: "☕" },
+  { title: "کلوچه", id: 3, img: "🍰" },
+  { title: "آبمیوه", id: 4, img: "🍛" },
+  { title: "انرژی زا ها", id: 5, img: "🥗" },
+  { title: "خشکبار", id: 6, img: "🍲" },
 ]
 
 export default function ProductCategories() {
